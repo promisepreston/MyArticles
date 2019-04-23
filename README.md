@@ -51,3 +51,6 @@ E.g rails routes
 7. When testing in Postman, use the default URL for all CRUD operations if you used the resources for your route
 E.g. Use http://localhost:3000/api/v1/articles for all CRUD operations and not http://localhost:3000/api/v1/articles/create for Creating Articles or http://localhost:3000/api/v1/articles/update for Updating 
 
+#Source
+https://medium.com/@hunter.j.nate/well-the-jerk-store-called-and-they-said-you-didnt-know-how-to-build-an-api-120eda19c836
+
